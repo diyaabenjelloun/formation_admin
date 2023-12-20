@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin">
   <deletedFolders>process/Formation</deletedFolders>
+  <deletedItems id="_UmAHsH-UEeSh_srZ_0iReQ" path="" type="CONTEXT"/>
   <deletedItems id="_7_jU4J8xEe6Rj4Hyn-QVAA" path="" type="PROCESS"/>
   <deletedItems id="_AunMcFzbEeil1bvyWQkg-w" path="Formation" type="PROCESS"/>
   <deletedItems id="_gHbLIDfGEeahJaHnNLrpfw" path="Formation" type="PROCESS"/>
